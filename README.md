@@ -2,8 +2,8 @@
 - Text-RPG developed using C# and deployed to cloud via Azure as a continuous web job;
 - the game is then through the debug console Microsoft provides. 
 
- 1. [x] Janky and pointless? 
- 2. [x] cool and fun to build!
+     - [x] Janky and pointless? 
+     - [x] cool and fun to build!
 
 
 - **Step 1:**
