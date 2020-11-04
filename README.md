@@ -14,6 +14,8 @@ Password: `cbrTFGZRMov55u2avd5RDxymh0fmDcjbNLjXpfdSR5odcf9c1jA9m2BTbQhX`
 Navigate to the folder where the .exe is stored.
 Input the following commands: `cd D:\home\site\wwwroot\app_data\jobs\continuous\TextRPG` then
 `ConsoleApp2.exe`
+Alternatively: use the GUI and click the correct order of folders: `site->wwwroot->app_data->jobs->continuous->TextRPG`
+
 - **Step 4:**
 Play the game!
 
