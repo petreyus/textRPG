@@ -1,12 +1,14 @@
 # textRPG
 Text-RPG developed using C# and deployed to cloud via Azure as a continuous web job;
-then accessed through the debug console allowing a text based role playing game to be accessed.
-
-- **Step 1:**
-After logging into a Microsoft account (free to create)
-[Azure continuous WebJob debug console](<https://textrpg.scm.azurewebsites.net/DebugConsole> "textRPG-->Azure continuous WebJob.")
+the game is then accessed through the debug console allowing a text based role playing game to be accessed.
     - [x] Janky and pointless? 
     - [x] cool and fun to build!
+
+
+- **Step 1:**
+After logging into a Microsoft account (free to create), follow this link to my WebApp on Azure
+[Azure continuous WebJob debug console](<https://textrpg.scm.azurewebsites.net/DebugConsole> "textRPG-->Azure continuous WebJob.")
+
 
 
 
