@@ -5,8 +5,8 @@ then accessed through the debug console allowing a text based role playing game 
 - **Step 1:**
 After logging into a Microsoft account (free to create)
 [Azure continuous WebJob debug console](<https://textrpg.scm.azurewebsites.net/DebugConsole> "textRPG-->Azure continuous WebJob.")
-*  - [x] Janky and pointless. 
-*  - [x] cool and fun to build!
+    - [x] Janky and pointless. 
+    - [x] cool and fun to build!
 
 
 
