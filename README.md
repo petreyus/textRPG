@@ -1,8 +1,8 @@
 # textRPG
 Text-RPG developed using C# and deployed to cloud via Azure as a continuous web job;
 the game is then accessed through the debug console allowing a text based role playing game to be accessed.
-    - [x] Janky and pointless? 
-    - [x] cool and fun to build!
+ 1. [x] Janky and pointless? 
+ 2. [x] cool and fun to build!
 
 
 - **Step 1:**
