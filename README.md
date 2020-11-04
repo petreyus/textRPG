@@ -12,7 +12,8 @@ Username: `$textRPG`
 Password: `cbrTFGZRMov55u2avd5RDxymh0fmDcjbNLjXpfdSR5odcf9c1jA9m2BTbQhX`
 - **Step 3:**
 Navigate to the folder where the .exe is stored.
-Input the following command: `D:\home\site\wwwroot\app_data\jobs\continuous\TextRPG>ConsoleApp2.exe`
+Input the following commands: `cd D:\home\site\wwwroot\app_data\jobs\continuous\TextRPG` then
+`ConsoleApp2.exe`
 - **Step 4:**
 Play the game!
 
