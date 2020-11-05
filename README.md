@@ -3,7 +3,7 @@
 - the game is then through the debug console Microsoft provides. 
 
      - [x] Janky and pointless? 
-     - [x] cool and fun to build!
+     - [x] Cool and fun to build!
 
 
 - **Step 1:**
