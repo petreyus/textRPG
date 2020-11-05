@@ -29,9 +29,9 @@ Play the game!
 
 
 **To Do:**
-- [ ] Keep extending story elements.
-- [ ] Add Battle Phase.
-- [ ] UI improvements (colored story-text).
+- [ ] Extending story elements.
+- [ ] Adding Battle Phase.
+- [ ] Improving UI (colored story-text).
 
 
 
