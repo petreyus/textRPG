@@ -8,7 +8,7 @@
 
 - **Step 1:**
 After logging into a Microsoft account (free to create), 
-[follow this link to my WebApp on Azure](<https://textrpg.scm.azurewebsites.net/DebugConsole> "textRPG-->Azure continuous WebJob.")
+[follow this link to my WebApp on Azure.](<https://textrpg.scm.azurewebsites.net/DebugConsole> "textRPG-->Azure continuous WebJob.")
 
 
 
