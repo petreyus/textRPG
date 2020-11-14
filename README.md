@@ -1,4 +1,4 @@
-# textRPG
+# TextRPG
 - Text-RPG developed using C# and deployed to cloud via Azure as a continuous web job;
 - the game is then through the debug console Microsoft provides. 
 
